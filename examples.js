@@ -222,14 +222,14 @@ class Example5 extends Component {
 }
 
 const Examples = () => (
-  <ScrollView contentContainerStyle={styles.landing}>
-    <Example0 />
+  <View style={styles.landing}>
+    {/* <Example0 /> */}
     <Example1 />
     <Example2 />
     <Example3 />
     <Example4 />
     <Example5 />
-  </ScrollView>
+  </View>
 );
 
 const styles = {

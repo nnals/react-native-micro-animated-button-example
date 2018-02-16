@@ -1,6 +1,11 @@
-expo example project to showcase [react-native-micro-animated-button](https://github.com/sonaye/react-native-micro-animated-button)
+[expo](https://docs.expo.io) example project to showcase [react-native-micro-animated-button](https://github.com/sonaye/react-native-micro-animated-button)
 
-# run with [expo](https://docs.expo.io)
-1. setup expo: https://docs.expo.io/versions/latest/introduction/installation.html
-2. install dependencies: `yarn` or `npm install`
-3. run with [exp](https://docs.expo.io/versions/latest/guides/exp-cli.html): `exp start`
+# run published version
+1. install expo app
+2. go to https://expo.io/@nnals/react-native-micro-animated-button-example and scan QR code with app
+
+# run locally [expo](https://docs.expo.io)
+1. install expo app
+2. install exp CLI: `npm install -g exp`
+3. install dependencies: `yarn` or `npm install`
+4. run with [exp](https://docs.expo.io/versions/latest/guides/exp-cli.html): `exp start`
