@@ -8,4 +8,4 @@
 1. install expo app
 2. install exp CLI: `npm install -g exp`
 3. install dependencies: `yarn` or `npm install`
-4. run with [exp](https://docs.expo.io/versions/latest/guides/exp-cli.html): `exp start`
+4. run with [exp](https://docs.expo.io/versions/latest/guides/exp-cli.html) on e.g. iOS simulator: `exp start --ios`
