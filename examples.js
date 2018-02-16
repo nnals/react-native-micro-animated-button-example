@@ -223,7 +223,7 @@ class Example5 extends Component {
 
 const Examples = () => (
   <View style={styles.landing}>
-    {/* <Example0 /> */}
+    <Example0 />
     <Example1 />
     <Example2 />
     <Example3 />
