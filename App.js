@@ -4,19 +4,6 @@ import Examples from './examples'
 
 export default class App extends React.Component {
   render() {
-    return (
-      <ScrollView contentContainerStyle={styles.container}>
-        <Examples />
-      </ScrollView>
-    );
+    return <Examples />
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center'
-  },
-});

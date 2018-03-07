@@ -2999,9 +2999,9 @@ react-native-maps@0.19.0:
   version "0.19.0"
   resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.19.0.tgz#ce94fad1cf360e335cb4338a68c95f791e869074"
 
-"react-native-micro-animated-button@git+ssh://git@github.com:nnals/react-native-micro-animated-button.git":
-  version "0.0.15"
-  resolved "git+ssh://git@github.com:nnals/react-native-micro-animated-button.git#3b5d30df091eecd4e8a5af1038075cee1ca72faf"
+react-native-micro-animated-button@^0.0.19:
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/react-native-micro-animated-button/-/react-native-micro-animated-button-0.0.19.tgz#1ff270727fd817cba2ae07360ed9fba17aeff57b"
 
 react-native-safe-module@^1.1.0:
   version "1.2.0"
